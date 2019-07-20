@@ -1,4 +1,4 @@
-# finding_donors
+# finding-donors
 
 Second Project for Udacity Machine Learning Nanodegree
 
